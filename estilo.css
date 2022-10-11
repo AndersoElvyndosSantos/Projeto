@@ -1,0 +1,26 @@
+body 
+    {background-image: url(img/curriculo.jpg);
+    background-repeat: no-repeat;
+    background-position: 450px;
+    background-size: contain;
+    margin-bottom: 30px;
+    margin-right: 475px;
+    margin-left: 475px;
+    margin-top: 30px;}
+.img-eu
+    {float:right;
+    margin-right: 780px;
+    max-width: 250px;;}
+p 
+    {color: black;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;}
+li 
+    {color: black;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;}
+H2 
+    {color: black;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;}
